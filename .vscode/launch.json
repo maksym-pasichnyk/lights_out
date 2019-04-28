@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Love2D",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/usr/bin/love",
+            "args": ["."],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": true,
+            "miDebuggerPath": "/usr/bin/gdb"
+        }
+    ]
+}
